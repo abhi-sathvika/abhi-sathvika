@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<br>
 # 💫 About Me:
 🎓 Junior @ UC San Diego majoring in Data Science | Passionate about building AI-powered tools<br>💡 Exploring the intersection of machine learning, product thinking, and user impact<br>🛠️ Projects: Agentic AI apps, Chatbots, Recommender Systems, and Full-Stack Apps<br>📢 Sharing insights & tech tips via Byte by Byte – my LinkedIn newsletter!<br>🌱 Currently learning: Small Language Models (SLMs) and scalable AI infra<br>🤝 Open to collaboration on AI x product innovation projects
 
